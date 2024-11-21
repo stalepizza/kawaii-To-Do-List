@@ -1,4 +1,4 @@
-# kawaii-To-Do-List
+# Kawaii-To-Do-List
 Kawaii To-Do List is a delightful and visually charming web application designed to make task management fun and engaging. Built with HTML, CSS, and JavaScript, this to-do list is styled with pastel colors, cute emojis, and a playful font to give users a cheerful experience while organizing their tasks.
 
 This is as cute it gets to help you stay more organised and more motivated to complete your tasks. This mini project, guarantees to give you a great motivation to complete your tasks and stay on top of things whether you are in school, college or job!
